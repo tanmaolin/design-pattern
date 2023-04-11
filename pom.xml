@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jxcc</groupId>
+    <artifactId>design_pattern</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>design_principle</module>
+        <module>single_example</module>
+        <module>simaple_factory</module>
+        <module>factory_method</module>
+        <module>abstract_factory</module>
+        <module>prototype_module</module>
+        <module>constructor</module>
+        <module>adapter_pattern</module>
+        <module>Bridge</module>
+        <module>Decorator</module>
+        <module>component</module>
+        <module>facade</module>
+        <module>flyweight</module>
+        <module>proxy</module>
+        <module>template_method</module>
+        <module>command</module>
+        <module>visitor</module>
+        <module>iterator</module>
+        <module>observer</module>
+        <module>mediator</module>
+        <module>memento</module>
+        <module>interpreter</module>
+        <module>state</module>
+        <module>strategy</module>
+        <module>chain_of_responsibilty</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
